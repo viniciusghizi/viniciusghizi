@@ -77,7 +77,7 @@ Estou criando o Swagger para facilitar o uso e criar a documentação.
 
 - [X] CRUD
 - [X] Hospedagem na Cloud
-- [ ] Validação de token por JWS
+- [ ] Validação de token por JWT
 - [ ] Swagger
 
 
