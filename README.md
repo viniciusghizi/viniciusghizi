@@ -57,13 +57,13 @@
 API criada com o instuito de fazer a Imersão Alura e de aprendizado. Nesta API podemos, adicionar uma linguagem com nome, foto e ranking. Visualizar as linguagens que estão inseridas, deletar e até mesmo atualizar elas. 
 Alguns Endpoints para teste.
   
-#### https://linguagemapialura.herokuapp.com/existe-linguagem-id ![get]
-#### https://linguagemapialura.herokuapp.com/linguagens ![get]
-#### https://linguagemapialura.herokuapp.com/delete-linguagem-id ![delete]
-#### https://linguagemapialura.herokuapp.com/atualizar/{id} ![patch]
-#### https://linguagemapialura.herokuapp.com/add-linguagem ![post] 
+#### https://linguagemapialura.herokuapp.com/existe-linguagem-id ![get] | [![json][json]][get-example] 
+#### https://linguagemapialura.herokuapp.com/linguagens ![get] | [![json][json]][list-get-example]
+#### https://linguagemapialura.herokuapp.com/delete-linguagem-id ![delete] | [![json][json]][delete-example]
+#### https://linguagemapialura.herokuapp.com/atualizar/{id} ![patch] | [![json][json]][patch-example]
+#### https://linguagemapialura.herokuapp.com/add-linguagem ![post] | [![json][json]][post-example]
   
-![json] 
+
 
 
 
@@ -134,4 +134,10 @@ Repositório do projeto: [https://github.com/viniciusghizi/linguagemAPIalura](ht
 [post]:https://img.shields.io/badge/post-yellow
 [patch]:https://img.shields.io/badge/patch-yellow
 [json]:https://img.shields.io/badge/JSON-body-blue
+[get-example]:https://prnt.sc/JijKWIseCs0A
+[list-get-example]:https://prnt.sc/WXUkmJF5g-L3
+[delete-example]:https://prnt.sc/oRqMcmcW9w5C
+[post-example]:https://prnt.sc/3YWIHtaLI3gA
+[patch-example]:https://prnt.sc/9s5jlcYIRCe7
+
 
