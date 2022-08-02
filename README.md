@@ -110,7 +110,7 @@ Repositório do projeto: [https://github.com/viniciusghizi/linguagemAPIalura](ht
 [mail]:https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [dev]:https://camo.githubusercontent.com/18185202231435bc1c2003830758e4b9f1567a33602d9d5ed1c73a04f8a44348/687474703a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d535441545553266d6573736167653d454d253230444553454e564f4c56494d454e544f26636f6c6f723d475245454e267374796c653d666f722d7468652d6261646765
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[email]:vinighizi@gmail.com
+[email]:v/mailto:vinighizi@gmail.com
 [ig]:https://www.instagram.com/viniciusghizi/
 [linkedin-url]: www.linkedin.com/in/vinicius-ghizi-informatica/
 
