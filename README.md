@@ -28,7 +28,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Conteudos desse projeto</summary>
   <ol>
     <li>
       <a href="#sobre-o-projeto">Sobre o projeto</a>
@@ -54,11 +54,21 @@
 
 
 
-API criada com o instuito de fazer a Imersão Alura, criado com o intuito de aprendizado. Nesta API podemos, adicionar uma linguagem com nome, foto e ranking. 
+API criada com o instuito de fazer a Imersão Alura e de aprendizado. Nesta API podemos, adicionar uma linguagem com nome, foto e ranking. Visualizar as linguagens que estão inseridas, deletar e até mesmo atualizar elas. 
+Alguns Endpoints para teste.
+  
+#### https://linguagemapialura.herokuapp.com/existe-linguagem-id ![get]
+#### https://linguagemapialura.herokuapp.com/linguagens ![get]
+#### https://linguagemapialura.herokuapp.com/delete-linguagem-id ![delete]
+#### https://linguagemapialura.herokuapp.com/atualizar/{id} ![patch]
+#### https://linguagemapialura.herokuapp.com/add-linguagem ![post] 
+  
+![json] 
+
 
 
 ### Tecnologias
-![java] | ![mongo] | ![spring] | ![netbeans] | 
+![java] | ![mongo] | ![spring] | ![netbeans] | ![heroku]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -89,7 +99,7 @@ Estou criando o Swagger para facilitar o uso e criar a documentação.
 
 <p align="center"> <strong>Vinicius Ghizi </strong> </p> 
 
-[![LinkedIn][linkedin-shield]][linkedin-url] | [![mail][mail]][email] | [![instagram][instagram]][ig] 
+[![LinkedIn][linkedin-shield]][linkedin-url] | <a href="mailto:vinighizi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> | [![instagram][instagram]][ig] 
 
 Repositório do projeto: [https://github.com/viniciusghizi/linguagemAPIalura](https://github.com/viniciusghizi/linguagemAPIalura)
 
@@ -101,16 +111,27 @@ Repositório do projeto: [https://github.com/viniciusghizi/linguagemAPIalura](ht
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- DEV TOOLS'N'FRAMEWORKS -->
 [java]:https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [netbeans]:https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white
 [mongo]:https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 [spring]:https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot
-[instagram]:https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[mail]:https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[heroku]:https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
+
+<!-- Project Status -->
 [dev]:https://camo.githubusercontent.com/18185202231435bc1c2003830758e4b9f1567a33602d9d5ed1c73a04f8a44348/687474703a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d535441545553266d6573736167653d454d253230444553454e564f4c56494d454e544f26636f6c6f723d475245454e267374796c653d666f722d7468652d6261646765
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[email]:v/mailto:vinighizi@gmail.com
+
+  
+<!-- Contacts Markdown -->
+[instagram]:https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [ig]:https://www.instagram.com/viniciusghizi/
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/vinicius-ghizi-informatica/
+  
+<!-- API Commands -->
+[get]:https://img.shields.io/badge/GET-2ea44f
+[delete]:https://img.shields.io/badge/delete-red
+[post]:https://img.shields.io/badge/post-yellow
+[patch]:https://img.shields.io/badge/patch-yellow
+[json]:https://img.shields.io/badge/JSON-body-blue
 
