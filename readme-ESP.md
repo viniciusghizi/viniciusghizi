@@ -130,4 +130,4 @@ Bienvenido a mi portafolio, aquí encontrarás los mayores de mis proyectos util
 [europass-url]:https://viniciusghizi.files.wordpress.com/2022/08/curriculoatualizado082022.pdf
 [readme-pt]:https://github.com/viniciusghizi/viniciusghizi/blob/main/README.md
 [readme-eng]:https://github.com/viniciusghizi/viniciusghizi/blob/main/readme-ENG.md
-[readme-esp]:https://github.com/viniciusghizi/viniciusghizi/blob/main/README-ESP.md
+[readme-esp]:https://github.com/viniciusghizi/viniciusghizi/blob/main/readme-ESP.md
