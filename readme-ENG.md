@@ -1,6 +1,8 @@
  ![eng] ![pt] ![esp]
-*Caso deseja ver em outro idioma, clique na badge do idioma acima| 
+ <br>
+*Caso deseja ver em outro idioma, clique na badge do idioma acima | 
 Si desea verlo en otro idioma, haga clic en el icono de idioma de arriba.*
+<br/>
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
@@ -20,36 +22,36 @@ Si desea verlo en otro idioma, haga clic en el icono de idioma de arriba.*
 ![jobs] ![level] ![experiencia]
     
  ![dev]
-    <a href="https://linguagemapialura.herokuapp.com/linguagens">My API on Heroku without JWT</a> - Repository: [See on Github](https://github.com/viniciusghizi/linguagemAPIalura)
+    <a href="https://linguagemapialura.herokuapp.com/linguagens"><br/>My API on Heroku without JWT</a> - Repository: [See on Github](https://github.com/viniciusghizi/linguagemAPIalura)
 	    
 </div> 
 
 
 ### My Skills
- *5 Stars = Very high Knowledge
-1 Stars = Little Knowledge*
+ *5 Stars = Very high Knowledge<br/>
+1 Star = Little Knowledge*<br/>
 **Ranked from highest to lowest**
- ![office] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
- ![windows] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
- ![teamviewer] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
- ![cmd] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
-![photoshop] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
- ![canva] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
- ![postm] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
- ![netbeans] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
-![java] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
- ![spotify] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
- ![notion] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
-![html] |  <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
-![mysql] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
- ![swagger] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
- ![mongo] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
- ![spring] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
- ![heroku] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
- ![php] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
- ![jira] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
- ![ubuntu] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
- ![vware] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+ <br/>![office] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+ <br/>![windows] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+ <br/>![teamviewer] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+ <br/>![cmd] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+<br/>![photoshop] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+ <br/>![canva] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+ <br/>![postm] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+ <br/>![netbeans] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+<br/>![java] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+ <br/>![spotify] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+ <br/>![notion] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+<br/>![html] |  <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+<br/>![mysql] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+ <br/>![swagger] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+ <br/>![mongo] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+ <br/>![spring] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+ <br/>![heroku] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+ <br/>![php] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+ <br/>![jira] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+ <br/>![ubuntu] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
+ <br/>![vware] | <img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
