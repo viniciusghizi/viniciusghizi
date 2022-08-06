@@ -124,9 +124,9 @@
 
 
 <!-- URLs -->
-[linkedin-url]: www.linkedin.com/in/vinicius-ghizi-informatica/
+[linkedin-url]: http://www.linkedin.com/in/vinicius-ghizi-informatica/
 [europass-url]:https://viniciusghizi.files.wordpress.com/2022/08/curriculoatualizado082022.pdf
 [ig]:https://www.instagram.com/viniciusghizi/
 [readme-pt]:https://github.com/viniciusghizi/viniciusghizi/blob/main/README.md
 [readme-eng]:https://github.com/viniciusghizi/viniciusghizi/blob/main/readme-ENG.md
-[readme-esp]:https://github.com/viniciusghizi/viniciusghizi/blob/main/README.md
+[readme-esp]:https://github.com/viniciusghizi/viniciusghizi/blob/main/README-ESP.md
