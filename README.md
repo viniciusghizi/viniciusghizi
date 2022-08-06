@@ -27,7 +27,7 @@
 
 ### Minhas Skills
  *5 Estrelas = Altissímo conhecimento<br/>
- 1 Estrelas = pouco conhecimento*<br/>
+ 1 Estrela = pouco conhecimento*<br/>
 **Ranqueado por maior ao menor**<br/>
  <br/>![office] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
  <br/>![windows] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
@@ -128,5 +128,5 @@
 [europass-url]:https://viniciusghizi.files.wordpress.com/2022/08/curriculoatualizado082022.pdf
 [ig]:https://www.instagram.com/viniciusghizi/
 [readme-pt]:https://github.com/viniciusghizi/viniciusghizi/blob/main/README.md
-[readme-eng]:https://github.com/viniciusghizi/viniciusghizi/blob/main/README.md
+[readme-eng]:https://github.com/viniciusghizi/viniciusghizi/blob/main/readme-ENG.md
 [readme-esp]:https://github.com/viniciusghizi/viniciusghizi/blob/main/README.md
