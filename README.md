@@ -1,4 +1,5 @@
-![pt] ![eng] ![esp]<br>
+[![pt][pt]][readme-pt] [![eng][eng]][readme-eng] [![esp][esp]][readme-esp]
+<br>
 *if you want to see it in another language, click on the language badge above. | Si desea verlo en otro idioma, haga clic en el icono de idioma de arriba.*<br/>
 <div id="top"></div>
 
@@ -113,13 +114,19 @@
   
 <!-- Contacts Markdown -->
 [instagram]:https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[ig]:https://www.instagram.com/viniciusghizi/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: www.linkedin.com/in/vinicius-ghizi-informatica/
 [europass]:https://img.shields.io/badge/Europass-CV-informational
-[europass-url]:https://viniciusghizi.files.wordpress.com/2022/08/curriculoatualizado082022.pdf
 
 <!-- informativos -->
 [jobs]:https://img.shields.io/badge/Procura-Emprego-red
 [level]:https://img.shields.io/badge/DevLevel-Iniciante-critical
 [experiencia]:https://img.shields.io/badge/Experi%C3%AAncia-8%2B%20anos-critical
+
+
+<!-- URLs -->
+[linkedin-url]: www.linkedin.com/in/vinicius-ghizi-informatica/
+[europass-url]:https://viniciusghizi.files.wordpress.com/2022/08/curriculoatualizado082022.pdf
+[ig]:https://www.instagram.com/viniciusghizi/
+[readme-pt]:https://github.com/viniciusghizi/viniciusghizi/blob/main/README.md
+[readme-eng]:https://github.com/viniciusghizi/viniciusghizi/blob/main/README.md
+[readme-esp]:https://github.com/viniciusghizi/viniciusghizi/blob/main/README.md
