@@ -1,6 +1,6 @@
 [![esp][esp]][readme-esp] [![pt][pt]][readme-pt] [![eng][eng]][readme-eng]<br>
-*Caso deseja ver em outro idioma, clique na badge do idioma acima| <br>
-_if you want to see it in another language, click on the language badge above._
+*Caso deseja ver em outro idioma, clique na badge do idioma acima | <br>
+_if you want to see it in another language, click on the language badge above.*_
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
@@ -27,8 +27,8 @@ Bienvenido a mi portafolio, aquí encontrarás los mayores de mis proyectos util
 
 
 ### Mi Skills
- *5 estrellas = conocimiento muy alto
-1 Estrellas = Poco Conocimiento*
+ *5 estrellas = conocimiento muy alto<br/>
+1 Estrellas = Poco Conocimiento*<br/>
 **Clasificados de mayor a menor**<br>
  ![office] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
  <br>![windows] |<img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" ><img src="https://viniciusghizi.files.wordpress.com/2022/08/285661_star_icon.png?resize=30,30" >
@@ -129,5 +129,5 @@ Bienvenido a mi portafolio, aquí encontrarás los mayores de mis proyectos util
 [linkedin-url]:www.linkedin.com/in/vinicius-ghizi-informatica/
 [europass-url]:https://viniciusghizi.files.wordpress.com/2022/08/curriculoatualizado082022.pdf
 [readme-pt]:https://github.com/viniciusghizi/viniciusghizi/blob/main/README.md
-[readme-eng]:https://github.com/viniciusghizi/viniciusghizi/blob/main/README.md
-[readme-esp]:https://github.com/viniciusghizi/viniciusghizi/blob/main/README.md
+[readme-eng]:https://github.com/viniciusghizi/viniciusghizi/blob/main/readme-ENG.md
+[readme-esp]:https://github.com/viniciusghizi/viniciusghizi/blob/main/README-ESP.md
