@@ -20,7 +20,7 @@
 ![jobs] ![level] ![experiencia]
     
  ![dev]
-    <a href="https://linguagemapialura.herokuapp.com/linguagens"><br/>Minha API no Heroku sem JWT</a> - Repositório do projeto: [Veja no Github](https://github.com/viniciusghizi/linguagemAPIalura)
+    <a href="https://linguagemapialura.herokuapp.com/swagger-ui.html"><br/>Minha primeira API no Heroku</a> - Repositório do projeto: [Veja no Github](https://github.com/viniciusghizi/linguagemAPIalura)
 	    
 </div> 
 
