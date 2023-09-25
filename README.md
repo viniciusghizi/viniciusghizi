@@ -8,7 +8,7 @@
 <h3 align="center">👋 ##  Hello, I'm  Vinicius Ghizi  🍫 ##</h3>
 
   <p align="center">
-    Hi, I'm a developer with solid skills in Java, VueJS, Angular, MySQL    <br />
+    I am a Brazilian with solid skills in Java, VueJS, Angular, MySQL looking for a opportunity in FL   <br />
     <br />
     
  ![level]   
@@ -16,17 +16,17 @@
 
 
 <!-- CONTACT -->
-## Contato
+## Contact
 
 <p align="center"> <strong>Vinicius Ghizi </strong> </p> 
 
 [![LinkedIn][linkedin-shield]][linkedin-url] | <a href="mailto:vinighizi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> | [![instagram][instagram]][ig] 
 
 <!-- Others Projects-->
-## Outros Projetos não focados em desenvolvimento
+## Other projects without code line
 
- - [Intranet com Sites Google](https://) - Gravando o vídeo de exibição
- - [Roteiro de instalação com Google Forms](https://) - Gravando o vídeo de exibição
+ - [Intranet com Sites Google](https://) - Recording the video.
+ - [Roteiro de instalação com Google Forms](https://) - Recording the video.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
