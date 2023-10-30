@@ -1,87 +1,77 @@
 
-<br />
-<div align="center">
-  <a href="https://github.com/viniciusghizi">
-    <img src="https://viniciusghizi.files.wordpress.com/2022/07/industrias_timmerman_logo__5_-removebg-preview.png?w=500" alt="Minha Logo" width="80" height="80">
-  </a>
+# Hi guys 👋
 
-<h3 align="center">👋 ##  Hello, I'm  Vinicius Ghizi  🍫 ##</h3>
+I'm Vinicius Ghizi, a Full-Stack Software Engineer with more 10 years of expertise in Java Development. Some companies then I worked: **Webcontinental** Marketplace, **Moovin E-Commerce** and **Renner Realize** with  the **CWI Software** employer. My work is focus in Private code and because this, alot of projects I can't show you.
+___
 
-  <p align="center">
-    I am a Brazilian with solid skills in Java, VueJS, Angular, MySQL looking for a opportunity in FL   <br />
-    <br />
+### [Table of Contents](https://github.com/viniciusghizi#table-of-contents)
+
+-   ⚒️  Repos Overview
+    -   ⚡  [Full-Stack](https://github.com/viniciusghizi#full-stack-projects)
+    -   📊  [Java Spring Boot](https://github.com/viniciusghizi#java-spring-boot-projects)
+    -   🕸️  [Small Projects](https://github.com/viniciusghizi#Small-projects)
+-   👾 Extra Info
+    -   🔗  [LinkedIn](https://www.linkedin.com/in/vinicius-barbosa-ghizi/)
+    -  🛠️ [Stacks and Tools](https://github.com/viniciusghizi#stacks-and-tools)
+    -   ✉️  [Email](mailto://vinighizi@gmail.com)
+
+## Repos Overview
+
+### [Full Stack Projects](https://github.com/viniciusghizi#full-stack-projects)
+
+-   [NLS E-Sports](https://github.com/viniciusghizi/nlwesports)
+    -  A Full-Stack project with backend in Node.JS and the frontend in React / React-Native. This App have simple **HTML** page, a **React Desktop version** and a **React-Native Mobile Version**. ***The desktop and mobile apps has differents features.***
+***
+
+### [Java Spring Boot Projects](https://github.com/viniciusghizi#java-spring-boot-projects)
+
+-   [DSList (A game List)](https://github.com/viniciusghizi/dslist)
+    -   The project list all games, all games by type and your positions. You can edit the game ranking too. Developed in a week. This Backend App uses: **Java 17**, **Docker** and **H2 Database** (You can use PostgreSQL).
+-   [LinguagemApiAlura](https://github.com/viniciusghizi/linguagemAPIalura)
+    -   This is a Spring boot application with Java 17 created with Alura Java Dev Week, I added for myself: User with different level of authentication, JWT authentication and Swagger. In this project we has de **CRUD** of your favorite Programming language with name, photo and ranking. Some technologies: **MongoDB**, **JWT**, **Swagger**, **Custom Annotations**.
+-   [To-do List](https://github.com/viniciusghizi/todolist)
+    -   This is a abandoned project. 😢
+    ***
+
+### [Small Projects](https://github.com/viniciusghizi#small-projects)
+
+-   [First AI](https://github.com/viniciusghizi/primeiraia)
+    -  A simple **Python** software to understand the **Machine Learning concepts**. 
+-   [Pokedex](https://github.com/viniciusghizi/pokedex)
+    -  A simple **HTML**, **CSS** and **Javascript** project to show some Pokemons. You can click on "Pokemon Logo" to capture one Pokemon.
+-   [Tinhoso](https://github.com/viniciusghizi/tinhoso)
+    -  A simple software to do request based in two arrays. I used **Golang** to learning a little about this technology.
+-   [Calculadora de Média](https://github.com/viniciusghizi/projetocalculadoramedias)
+    -  A simple **Javascript** software to calculate students grade. 
+    ---
+    ### [Stacks and Tools](https://github.com/viniciusghizi#stacks-and-tools)
+  
+    ![java] ![mongo] ![spring] ![heroku] ![vscode] ![swagger] ![jwt] ![jira] ![mysql] 
+     ![heroku] ![ubuntu] ![postm] ![html] ![nest] ![rabbit] ![react] ![reactn] ![vue] ![golang] ![docker] ![grafana] ![sonar]
     
- ![level]   
-</div> 
-
-
-<!-- CONTACT -->
-## Contact
-
-<p align="center"> <strong>Vinicius Ghizi </strong> </p> 
-
-[![LinkedIn][linkedin-shield]][linkedin-url] | <a href="mailto:vinighizi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> | [![instagram][instagram]][ig] 
-
-<!-- Others Projects-->
-## Other projects without code line
-
- - [Intranet com Sites Google](https://) - Recording the video.
- - [Roteiro de instalação com Google Forms](https://) - Recording the video.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
 <!-- DEV TOOLS'N'FRAMEWORKS -->
 [java]:https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [netbeans]:https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white
 [mongo]:https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+[heroku]:https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
+[vscode]:https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[swagger]:https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white
+[jwt]:https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens
+[java]:https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+[mongo]:https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 [spring]:https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot
 [MySQL]:https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
 [heroku]:https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
-[photoshop]:https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white
-[canva]:https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white
-[php]:https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
-[spotify]:https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white
-[office]:https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
 [ubuntu]:https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
-[windows]:https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 [jira]:https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white
-[notion]:https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white
 [postm]:https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [html]:https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[cmd]:https://img.shields.io/badge/Windows%20Terminalt-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white
-[swagger]:https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white
-[vware]:https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white
-[teamviewer]:https://img.shields.io/badge/TeamViewer-004680.svg?style=for-the-badge&logo=TeamViewer&logoColor=white
-[helpdesk]:https://img.shields.io/badge/HelpDesk-FFD000.svg?style=for-the-badge&logo=HelpDesk&logoColor=black
-[gtm]:https://img.shields.io/badge/Google%20Tag%20Manager-246FDB.svg?style=for-the-badge&logo=Google-Tag-Manager&logoColor=white
-[knowledgebase]:https://img.shields.io/badge/KnowledgeBase-FFD000.svg?style=for-the-badge&logo=KnowledgeBase&logoColor=black
-[vbulletin]:https://img.shields.io/badge/vBulletin-184D66.svg?style=for-the-badge&logo=vBulletin&logoColor=white
-[livechat]:https://img.shields.io/badge/LiveChat-FFD000.svg?style=for-the-badge&logo=LiveChat&logoColor=black
-[pt]:https://img.shields.io/badge/Idioma-Portugu%C3%AAs-important
-[eng]:https://img.shields.io/badge/Language-English-important
-[esp]:https://img.shields.io/badge/Lengua-Espa%C3%B1ola-important
-
-<!-- Project Status -->
-[dev]:https://camo.githubusercontent.com/18185202231435bc1c2003830758e4b9f1567a33602d9d5ed1c73a04f8a44348/687474703a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d535441545553266d6573736167653d454d253230444553454e564f4c56494d454e544f26636f6c6f723d475245454e267374796c653d666f722d7468652d6261646765
-
-
-  
-<!-- Contacts Markdown -->
-[instagram]:https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[europass]:https://img.shields.io/badge/Europass-CV-informational
-
-<!-- informativos -->
-[jobs]:https://img.shields.io/badge/Procura-Emprego-red
-[level]:https://img.shields.io/badge/DevLevel-Avançado-critical
-[experiencia]:https://img.shields.io/badge/Experi%C3%AAncia-8%2B%20anos-critical
-
-
-<!-- URLs -->
-[linkedin-url]: http://www.linkedin.com/in/vinicius-ghizi-informatica/
-[europass-url]:https://viniciusghizi.files.wordpress.com/2022/08/curriculoatualizado082022.pdf
-[ig]:https://www.instagram.com/viniciusghizi/
-[readme-pt]:https://github.com/viniciusghizi/viniciusghizi/blob/main/README.md
-[readme-eng]:https://github.com/viniciusghizi/viniciusghizi/blob/main/readme-ENG.md
-[readme-esp]:https://github.com/viniciusghizi/viniciusghizi/blob/main/readme-ESP.md
+[rabbit]:https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white
+[react]:https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[reactn]:https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[vue]:https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
+[golang]:https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
+[docker]:https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[grafana]:https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white
+[sonar]:https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD
+[nest]:https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white
