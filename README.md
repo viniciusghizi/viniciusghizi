@@ -1,7 +1,7 @@
 
 # Hi guys 👋
 
-I'm Vinicius Ghizi, a Full-Stack Software Engineer with more 10 years of expertise in Java Development. Some companies then I worked: **Webcontinental** Marketplace, **Moovin E-Commerce** and **Renner Realize** with  the **CWI Software** employer. My work is focus in Private code and because this, alot of projects I can't show you.
+I'm Vinicius Ghizi, a Full-Stack Software Engineer with more 10 years of expertise in Java Development. Some companies then I worked: **Webcontinental** Marketplace, **Moovin E-Commerce** and **Renner Realize** with  the **CWI Software** employer. My work is focus in Private code, because this alot of code projects I can't show here.
 ___
 
 ### [Table of Contents](https://github.com/viniciusghizi#table-of-contents)
